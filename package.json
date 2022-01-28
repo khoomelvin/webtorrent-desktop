@@ -43,7 +43,7 @@
     "run-parallel": "^1.1.6",
     "semver": "^6.0.0",
     "simple-concat": "^1.0.0",
-    "simple-get": "^3.0.3",
+    "simple-get": "^4.0.1",
     "srt-to-vtt": "^1.1.1",
     "vlc-command": "^1.0.1",
     "webtorrent": "0.x",
